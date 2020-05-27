@@ -1,0 +1,24 @@
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojResolveAssemblyReference.cache
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+D:\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+E:\Lập trình ASP.Net\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojResolveAssemblyReference.cache
+H:\aspx\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+H:\aspx\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+H:\aspx\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+H:\aspx\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojAssemblyReference.cache
+H:\aspx\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+H:\aspx\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
+C:\Users\tranh\OneDrive\Desktop\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll.config
+C:\Users\tranh\OneDrive\Desktop\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.dll
+C:\Users\tranh\OneDrive\Desktop\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\bin\DoAnVegeFoody.pdb
+C:\Users\tranh\OneDrive\Desktop\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.csprojAssemblyReference.cache
+C:\Users\tranh\OneDrive\Desktop\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.dll
+C:\Users\tranh\OneDrive\Desktop\DoAnVegeFood\DoAnVegeFoody\DoAnVegeFoody\obj\Debug\DoAnVegeFoody.pdb
