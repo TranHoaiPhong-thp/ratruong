@@ -1,0 +1,7 @@
+Bảng sản phẩm có cmt Đánh giá của người dùng 
+Bảng hóa đơn , địa chỉ người nhận , số điện thoại , thông tin người nhận , ghi chú , có thể có nhiều người bán 
+Bảng khách hàng và user gộp lại thành một 
+=> một người bán 
+1- Về chỉnh sửa lại CSDL ->Ngày mai xong 2 thằng 2 bản 
+2- Design 1 giao diện admin và home 
+tìm giao diện admin 

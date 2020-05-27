@@ -3,3 +3,5 @@ https://www.slideshare.net/thanhnd28071/phn-tch-thit-k-h-thng-ca-hng-bn-in-thoi-
 https://www.slideshare.net/trieunguyendinh/bo-co-n-thit-k-web-ti-thanh-ha-dch-v-seo-ti-thanh-ha
 https://iviettech.vn/blog/672-case-study-thuc-hanh-xay-dung-ban-ve-use-case.html?fbclid=IwAR3d1ZFdmKavcTYcADxAzKoscFG65tvrIyHnP9Nx7DE5nzbneOUWr_SOLFc (xem để xây dựng các use case)
 https://bietmaytinh.com/vesodo/(cái phần mềm để vẽ các lược đồ)
+https://www.gps-coordinates.net/ (Cái này là cái dùng để lấy tọa độ cho cái google , phần làm bản đồ đinh vị )
+https://www.mockplus.com/blog/post/bootstrap-navbar-template (Cái hiệu ứng giống như của thầy Hảo)
