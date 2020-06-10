@@ -5,3 +5,4 @@ https://iviettech.vn/blog/672-case-study-thuc-hanh-xay-dung-ban-ve-use-case.html
 https://bietmaytinh.com/vesodo/(cái phần mềm để vẽ các lược đồ)
 https://www.gps-coordinates.net/ (Cái này là cái dùng để lấy tọa độ cho cái google , phần làm bản đồ đinh vị )
 https://www.mockplus.com/blog/post/bootstrap-navbar-template (Cái hiệu ứng giống như của thầy Hảo)
+https://w3layouts.com/ (Cái này là cái phần playout nè)
